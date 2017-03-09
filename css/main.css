@@ -2,9 +2,9 @@
   box-sizing: border-box;
 }
 body {
-  color: #333333; 
+  color: #4C1F00; 
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  background-color: #c4dce1;              /*change your Bkg color*/
+  background-color: #e2b279;
 
 }
 
@@ -24,14 +24,14 @@ footer {
 }
 
 footer p {
-  font-size: 24px; /*font size in footer*/
+  font-size: 15px;
   padding: 0;
   margin: 0;
 }
 
 header {
   background: #C8C1B7;
-  background-image: url("../img/gallerybanner.jpg"); /*change your banner image*/
+  background-image: url("../img/banner.jpg");
   background-size: cover;
   border-bottom: 1px solid #999999;
   height: 120px;
@@ -81,7 +81,7 @@ header nav a, header nav a:visited {
   display: block;
   line-height: 60px;
   text-decoration: none;
-  color: #C8C1B7;                         /*changes banner text color*/
+  color: #e2b279;                         
   transition: color 200ms ease-in-out;
 }
 
